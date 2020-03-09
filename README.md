@@ -8,7 +8,7 @@ Authors: [Thanh Huy Nguyen](mailto:nthuy190991@gmail.com), Sylvie Daniel, Didier
 ## Download links
 [Raw SRSM results](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcsaXqiItQFAqF9HxTBc7fQB0bBIndcbUuF3oPzHFFUa0A?e=m4UCCf) (approx. 210 MB).
 
-(in case that these links expire, please open an issue on the Issues tracker or [email me](mailto:nthuy190991@gmail.com))
+(in case that the link expires, please open an issue on the Issues tracker or [email me](mailto:nthuy190991@gmail.com))
 
 
 ## Citation
