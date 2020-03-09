@@ -6,8 +6,12 @@ These building footprints are the results of our paper **Super-Resolution-based 
 Authors: [Thanh Huy Nguyen](mailto:nthuy190991@gmail.com), Sylvie Daniel, Didier Guériot, Christophe Sintès, and Jean-Marc Le Caillec.
 
 ## Download links
-[Raw SRSM results]() (approx. 210 MB)
-(in case that the link expires, please open an issue on the Issues tracker or [email me](mailto:nthuy190991@gmail.com)).
+[Raw SRSM results](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcsaXqiItQFAqF9HxTBc7fQB0bBIndcbUuF3oPzHFFUa0A?e=m4UCCf) (approx. 210 MB).
+
+[Polygonized footprints]()
+
+(in case that these links expire, please open an issue on the Issues tracker or [email me](mailto:nthuy190991@gmail.com))
+
 
 ## Citation
 If you use these footprints, please cite our paper:
@@ -39,9 +43,9 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 
 
 ## Notes:
-- For the sake of computational cost, we carried out the SRSM separately on tile (each covers a 1km x 1km area)
-- The tile-based results were then combined in QGIS
-- Two versions are provided: without and with built-in polygonization. But only the raw results from SRSM are used in the publication.
+- For the sake of computational cost, we carried out the SRSM separately on tile (each covers a 1km x 1km area).
+- The tile-based results were then combined in QGIS.
+- Two versions are provided: without and with ERSI ArcMap built-in polygonization [algorithm](https://arxiv.org/abs/1504.06584). But only the raw results from SRSM are used in the publication.
 
 
 ## Conversion ERSI Shapefile into GeoJSON
