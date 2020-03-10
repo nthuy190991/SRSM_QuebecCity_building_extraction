@@ -37,12 +37,11 @@ We compared the SRSM results with the open Canada building footprint datasets ca
     
     
 ## Some examples
+ | 
+:-------------------------:|:-------------------------:
 SRSM results overlapped on z-image (tile 4190) |  SRSM results overlapped on orthoimage (tile 4190)
-:-------------------------:|:-------------------------:
 <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" alt="Tile 4190" width="100%" height="20%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" alt="Tile 4190" width="100%" height="20%"/>
-
 SRSM results overlapped on z-image (tile 4785) |  SRSM results overlapped on orthoimage (tile 4785)
-:-------------------------:|:-------------------------:
 <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_zimg.png" alt="Tile 4785" width="100%" height="20%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_opt_img.png" alt="Tile 4785" width="100%" height="20%"/>
 
 
@@ -53,7 +52,7 @@ SRSM results overlapped on z-image (tile 4785) |  SRSM results overlapped on ort
 ## Notes:
 - For the sake of computational cost, we carried out the SRSM separately on tile (each covers a 1km x 1km area).
 - The tile-based results were then combined in QGIS.
-- A version of the polygonized footprints by applying the ERSI ArcMap built-in polygonization [algorithm](https://arxiv.org/abs/1504.06584) can be found [here](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcNbGxwXWOVFuwV4u8wulhQBRc7sRkT7xnsDjHORgWRibA?e=vLmqNP). But only the raw results from SRSM are used in the publication.
+- A version of the simplified footprints by applying the ERSI ArcMap built-in polygonization [algorithm](https://arxiv.org/abs/1504.06584) can be found [here](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcNbGxwXWOVFuwV4u8wulhQBRc7sRkT7xnsDjHORgWRibA?e=vLmqNP). But only the raw results from SRSM are used in the publication.
 
 
 ## Conversion ERSI Shapefile into GeoJSON
