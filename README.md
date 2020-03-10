@@ -6,7 +6,7 @@ These building footprints are the results of our paper **Super-Resolution-based 
 Authors: [Thanh Huy Nguyen](mailto:nthuy190991@gmail.com), Sylvie Daniel, Didier Guériot, Christophe Sintès, and Jean-Marc Le Caillec.
 
 ## Download links
-[Raw SRSM results](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcsaXqiItQFAqF9HxTBc7fQB0bBIndcbUuF3oPzHFFUa0A?e=m4UCCf) (approx. 210 MB).
+[SRSM results](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcsaXqiItQFAqF9HxTBc7fQB0bBIndcbUuF3oPzHFFUa0A?e=m4UCCf) (approx. 210 MB).
 
 (in case that the link expires, please open an issue on the Issues tracker or [email me](mailto:nthuy190991@gmail.com))
 
@@ -36,6 +36,11 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 | SRSM | 82.32 % | 72.02 % | 62.37 % | Unsupervised method |
     
     
+## Some examples
+
+![SRSM results overlapped on z-image (tile 4190)](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png)
+![SRSM results overlapped on orthoimage (tile 4190)](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png)
+
 ## What is the coordinate reference system?
 [EPSG: 2949](https://epsg.io/2949) a.k.a. NAD83(CSRS) / MTM zone 7
 
