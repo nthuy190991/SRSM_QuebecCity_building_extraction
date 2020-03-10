@@ -37,20 +37,17 @@ We compared the SRSM results with the open Canada building footprint datasets ca
     
     
 ## Some examples
-<div class="row">
-  <div class="column">
+<p float="left">
     <figure>
-      <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" width="50%" height="50%"/> 
+      <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" alt="Tile 4190" style="width:50%"/> 
       <figcaption>SRSM results overlapped on z-image (tile 4190)</figcaption>
     </figure>
-  </div>
-  <div class="column">
     <figure>
-      <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" width="50%" height="50%"/> 
+      <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" alt="Tile 4190" style="width:50%"/> 
       <figcaption>SRSM results overlapped on orthoimage (tile 4190)</figcaption>
     </figure>
-  </div>
-</div>
+</p>
+
 <div class="row">
   <div class="column">
     <figure>
