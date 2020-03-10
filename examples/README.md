@@ -1,8 +1,7 @@
 
 # Examples
-SRSM results on two tiles 4190 and 4785 are displayed overlapping on the orthorectified images, and on the high-resolution z-image.
+SRSM results on two tiles 4190 and 4785 are displayed overlapping on the high-resolution z-image, and also on the orthorectified images, courtesy of © Communauté métropolitaine de Québec.
 
-The orthoimages underlined the building footprints are provided by © Communauté métropolitaine de Québec.
 
 ## Extents:
 - Tile 4190: x=\[241000, 242000\], y=[5190000 5191000].
