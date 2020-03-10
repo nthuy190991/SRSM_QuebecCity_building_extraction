@@ -37,9 +37,8 @@ We compared the SRSM results with the open Canada building footprint datasets ca
     
     
 ## Some examples
- | 
-:-------------------------:|:-------------------------:
 SRSM results overlapped on z-image (tile 4190) |  SRSM results overlapped on orthoimage (tile 4190)
+:-------------------------:|:-------------------------:
 <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" alt="Tile 4190" width="100%" height="20%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" alt="Tile 4190" width="100%" height="20%"/>
 SRSM results overlapped on z-image (tile 4785) |  SRSM results overlapped on orthoimage (tile 4785)
 <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_zimg.png" alt="Tile 4785" width="100%" height="20%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_opt_img.png" alt="Tile 4785" width="100%" height="20%"/>
