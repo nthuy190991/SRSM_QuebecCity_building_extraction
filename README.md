@@ -44,7 +44,12 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 ![SRSM results overlapped on z-image (tile 4785)](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_zimg.png | width=150)
 ![SRSM results overlapped on orthoimage (tile 4785)](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_opt_img.png | width=150)
 
-<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" width="200" height="400" />
+<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" width="400" height="400"/> <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" width="400" height="400"/>
+
+<figure><img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" width="400" height="400"/> <figcaption>SRSM results overlapped on z-image (tile 4190)</figcaption>
+</figure>
+<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" width="400" height="400"/>
+
 
 ## What is the coordinate reference system?
 [EPSG: 2949](https://epsg.io/2949) a.k.a. NAD83(CSRS) / MTM zone 7
