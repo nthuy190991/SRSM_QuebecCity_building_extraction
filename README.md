@@ -44,11 +44,17 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 ![SRSM results overlapped on z-image (tile 4785)](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_zimg.png | width=150)
 ![SRSM results overlapped on orthoimage (tile 4785)](https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_opt_img.png | width=150)
 
-<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" width="400" height="400"/> <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" width="400" height="400"/>
-
 <figure><img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_zimg.png" width="400" height="400"/> <figcaption>SRSM results overlapped on z-image (tile 4190)</figcaption>
 </figure>
-<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" width="400" height="400"/>
+<figure>
+<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" width="400" height="400"/> <figcaption>SRSM results overlapped on orthoimage (tile 4190)</figcaption>
+</figure>
+
+<figure><img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_zimg.png" width="400" height="400"/> <figcaption>SRSM results overlapped on z-image (tile 4785)</figcaption>
+</figure>
+<figure>
+<img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_opt_img.png" width="400" height="400"/> <figcaption>SRSM results overlapped on orthoimage (tile 4785)</figcaption>
+</figure>
 
 
 ## What is the coordinate reference system?
@@ -58,7 +64,7 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 ## Notes:
 - For the sake of computational cost, we carried out the SRSM separately on tile (each covers a 1km x 1km area).
 - The tile-based results were then combined in QGIS.
-- A version of the polygonized footprints by applying the ERSI ArcMap built-in polygonization [algorithm](https://arxiv.org/abs/1504.06584) can be found [here](). But only the raw results from SRSM are used in the publication.
+- A version of the polygonized footprints by applying the ERSI ArcMap built-in polygonization [algorithm](https://arxiv.org/abs/1504.06584) can be found [here](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcNbGxwXWOVFuwV4u8wulhQBRc7sRkT7xnsDjHORgWRibA?e=vLmqNP). But only the raw results from SRSM are used in the publication.
 
 
 ## Conversion ERSI Shapefile into GeoJSON
