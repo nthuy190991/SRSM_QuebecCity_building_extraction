@@ -32,7 +32,7 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 ### Accuracy metrics
 | Area-based | Completeness | Correctness | Quality (IoU) | F1-score | Notes |
 | --- | :---: | :---: | :---: | :---: | --- |
-| Microsoft | 77.42 % | 87.61 % | 69.77 % | 82.20 % | Using ResNet34 as the DNN foundation |
+| Microsoft | 77.42 % | 87.61 % | 69.77 % | 82.20 % | Using ResNet34 as the foundation |
 | SRSM | 82.32 % | 72.02 % | 62.37 % | 76.73 % | Unsupervised method |
 
 | Object-based | Completeness | Correctness | Quality | 
