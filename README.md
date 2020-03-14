@@ -30,11 +30,17 @@ To download these GT footprints, please refer to their [website](https://www.don
 We compared the SRSM results with the open Canada building footprint datasets carried out by Microsoft Bing maps team (see their [blog entry](https://blogs.bing.com/maps/2019-03/microsoft-releases-12-million-canadian-building-footprints-as-open-data) and [Github](https://github.com/microsoft/CanadianBuildingFootprints)). 
 
 ### Accuracy metrics
-|  | Completeness | Correctness | Quality (IoU) | Notes |
+| Area-based | Completeness | Correctness | Quality (IoU) | Notes |
 | --- | :---: | :---: | :---: | --- |
 | Microsoft | 77.42 % | 87.61 % | 69.77 % | Using ResNet34 as the DNN foundation |
 | SRSM | 82.32 % | 72.02 % | 62.37 % | Unsupervised method |
-    
+
+| Object-based | Completeness | Correctness | Quality (IoU) | 
+| --- | :---: | :---: | :---: | 
+| Microsoft | 59.01 % | 93.16 % | 56.56 % |
+| SRSM | 74.25 % | 80.95 % | 63.21 % |
+
+
     
 ## Some examples
 SRSM results overlapped on z-image (tile 4190) |  SRSM results overlapped on orthoimage (tile 4190)
