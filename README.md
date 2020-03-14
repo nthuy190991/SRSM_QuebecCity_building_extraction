@@ -34,9 +34,9 @@ We compared the SRSM results with the open Canada building footprint datasets ca
 | --- | :---: | :---: | :---: | :---: | --- |
 | Microsoft | 77.42 % | 87.61 % | 69.77 % | 82.20 % | Using ResNet34 as the foundation |
 | SRSM | 82.32 % | 72.02 % | 62.37 % | 76.73 % | Unsupervised method |
-| Area-based | Completeness | Correctness | Quality | F1-score |  |
-| Microsoft | 59.01 % | 93.16 % | 56.56 % | | |
-| SRSM | 74.25 % | 80.95 % | 63.21 % | | |
+| **Object-based | Completeness | Correctness | Quality | F1-score** |  |
+| Microsoft | 59.01 % | 93.16 % | 56.56 % | 72.26 % | |
+| SRSM | 74.25 % | 80.95 % | 63.21 % | 77.46 % | |
 
 
     
