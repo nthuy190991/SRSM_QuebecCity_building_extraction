@@ -47,7 +47,7 @@ SRSM results overlapped on z-image (tile 4190) |  SRSM results overlapped on z-i
 **SRSM results overlapped on orthoimage (tile 4190)** |  **SRSM results overlapped on orthoimage (tile 4785)**
  <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_on_opt_img.png" alt="Tile 4190" width="100%" height="20%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_on_opt_img.png" alt="Tile 4785" width="100%" height="20%"/>
 **Ground truth (tile 4190)** |  **Ground truth (tile 4785)**
- <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_gt.png" alt="Tile 4190" width="100%" height="20%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_gt.png" alt="Tile 4785" width="100%" height="20%"/>
+ <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4190_gt.png" alt="Tile 4190" width="85%" height="26%"/> | <img src="https://github.com/nthuy190991/SRSM_QuebecCity_building_extraction/blob/master/examples/4785_gt.png" alt="Tile 4785" width="85%" height="26%"/>
 
 ## What is the coordinate reference system?
 [EPSG: 2949](https://epsg.io/2949) a.k.a. NAD83(CSRS) / MTM zone 7
