@@ -12,9 +12,14 @@ Authors: [Thanh Huy Nguyen](mailto:nthuy190991@gmail.com), Sylvie Daniel, Didier
 
 
 ## Citation
-If you use these footprints, please cite our paper:
+If you use these footprints, please cite our (preprint) paper:
 ```
-  {bibtex}
+@article{nguyen2020super,
+  title={Super-Resolution-based Snake Model--An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image},
+  author={Nguyen, Thanh Huy and Daniel, Sylvie and Gueriot, Didier and Sintes, Christophe and Caillec, Jean-Marc Le},
+  journal={arXiv preprint arXiv:2004.08522},
+  year={2020}
+}
 ```
 
 
