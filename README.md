@@ -6,7 +6,7 @@ These building footprints are the results of our paper **Super-Resolution-based 
 Authors: [Thanh Huy Nguyen](mailto:nthuy190991@gmail.com), Sylvie Daniel, Didier Guériot, Christophe Sintès, and Jean-Marc Le Caillec.
 
 ## Download links
-[SRSM results](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcsaXqiItQFAqF9HxTBc7fQB0bBIndcbUuF3oPzHFFUa0A?e=m4UCCf) (approx. 210 MB).
+[SRSM results](https://ulavaldti-my.sharepoint.com/:u:/g/personal/thngu52_ulaval_ca/EcsaXqiItQFAqF9HxTBc7fQB0bBIndcbUuF3oPzHFFUa0A?e=hu8QA7) (approx. 210 MB).
 
 (in case that the link expires, please open an issue on the Issues tracker or [email me](mailto:nthuy190991@gmail.com))
 
