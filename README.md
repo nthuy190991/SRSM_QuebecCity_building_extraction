@@ -16,7 +16,7 @@ If you use these footprints, please cite our paper \[[arXiv](https://arxiv.org/a
 ```
 @article{nguyen2020super,
   title={Super-Resolution-Based Snake Model—An Unsupervised Method for Large-Scale Building Extraction using Airborne LiDAR Data and Optical Image},
-  author={Nguyen, Thanh Huy and Daniel, Sylvie and Gu{\'e}riot, Didier and Sint{\`e}s, Christophe and Caillec, Jean-Marc Le},
+  author={Nguyen, Thanh Huy and Daniel, Sylvie and Gu{\'e}riot, Didier and Sint{\`e}s, Christophe and Le Caillec, Jean-Marc},
   journal={Remote Sensing},
   volume={12},
   number={11},
